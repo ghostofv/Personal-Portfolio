@@ -1,16 +1,85 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, multi-page developer portfolio built with React and Vite, designed to showcase projects, skills, certifications, and cybersecurity-focused work through an interactive and animated user experience.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio serves as a professional digital presence featuring:
 
-## React Compiler
+- Responsive modern UI
+- Smooth animations and transitions
+- Multi-page navigation
+- Project showcase section
+- Skills and technology stack section
+- About me section
+- Contact form
+- Cybersecurity project demonstrations
+- GitHub and social integrations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+### Frontend
+- React.js
+- Vite
+- Component-based architecture
+- Dynamic routing with React Router
+- Responsive layouts
+- Interactive UI animations
+- Optimized performance with lazy loading
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Design
+- Modern immersive interface
+- Clean minimal aesthetic
+- 3D-inspired visual elements
+- Smooth scrolling effects
+- Mobile-first design
+
+### Portfolio Sections
+- Home / Landing Page
+- About
+- Projects
+- Skills
+- Certifications
+- Experience
+- Contact
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript / TypeScript
+- CSS / Tailwind 
+- React Router
+- Framer Motion
+- EmailJS / Formspree 
+
+## Project Structure
+
+```bash
+src/
+ ├── components/
+ ├── pages/
+ ├── assets/
+ ├── hooks/
+ ├── animations/
+ └── App.jsx
+```
+
+## Future Improvements
+
+Planned additions:
+
+- AI chatbot integration
+- Interactive cybersecurity lab demos
+- Blog section
+- Case studies
+- Dark/light theme toggle
+- CMS integration for content management
+
+## Author
+
+Built and designed by Aaron Justin
+
+## License
+
+MIT License
